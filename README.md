@@ -1,3 +1,9 @@
+## Demo git & github
+
+This is a demo of git and github
+
+
+
 ## ActiveRecord basics boilerplate
 
 This is a minimalist implementation of ActiveRecord with one `Restaurant` model to live-code a demo for @LeWagon students, part of [Karr examples](https://github.com/lewagon/karr-examples), working with Sinatra.
